@@ -1,0 +1,31 @@
+body{
+  padding-top:80px;
+}
+
+.fixed-top{
+  margin-bottom: 500px;
+}
+
+.container{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.carousel-item{
+  height: 580px;
+}
+
+.c-img{
+  object-fit: cover; 
+  /* height: 100%;  */
+  filter: brightness(0.7);"
+}
+
+.face{
+  padding-right: 10px;
+  text-decoration: none;
+}
+
+.about{
+  margin-top: 50px;
+}
